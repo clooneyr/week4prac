@@ -1,2 +1,2 @@
-https://www.purestake.com
-https://pyteal.readthedocs.io/en/stable/
+- https://www.purestake.com
+- https://pyteal.readthedocs.io/en/stable/
